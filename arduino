@@ -1,0 +1,15 @@
+my_flask_app/
+│
+├── app/
+│   ├── __init__.py
+│   ├── routes.py
+│   ├── models.py
+│   ├── services.py
+│   ├── auth.py
+│
+├── migrations/
+│
+├── .gitignore
+├── config.py
+├── run.py
+└── requirements.txt
